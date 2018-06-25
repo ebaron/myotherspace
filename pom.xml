@@ -126,15 +126,6 @@
                 </goals>
               </execution>
             </executions>
-            <configuration>
-              <resources>
-                <labels>
-                  <all>
-                    <space>${fabric8.space}</space>
-                  </all>
-                </labels>
-              </resources>
-            </configuration>
           </plugin>
         </plugins>
       </build>
